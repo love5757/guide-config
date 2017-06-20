@@ -5,7 +5,7 @@ greeting: "반갑습니다."
 spring:
   profiles: dev
 
-cron: "0 40 17 ? * MON-FRI"
+cron: "0 50 17 ? * MON-FRI"
 
 
 ---
