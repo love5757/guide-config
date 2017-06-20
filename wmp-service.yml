@@ -3,14 +3,6 @@ greeting: "반갑습니다."
 ---
 
 spring:
-  profiles: local
-  
-greeting: "this is local properties."  
-
-
----
-
-spring:
   profiles: dev
   
 greeting: "this is dev properties."  
