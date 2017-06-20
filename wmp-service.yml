@@ -5,7 +5,7 @@ greeting: "반갑습니다."
 spring:
   profiles: dev
 
-desc: "0 52 17 ? * MON-FRI"
+desc: "월요일~금요일 오후 5시 30분  자동등록 처리됨"
 
 
 ---
@@ -13,4 +13,4 @@ desc: "0 52 17 ? * MON-FRI"
 spring:
   profiles: prod
   
-desc: "0 30 17 ? * MON-FRI"
+desc: "월요일~금요일 오후 5시 30분  자동등록 처리됨"
