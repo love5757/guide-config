@@ -6,7 +6,7 @@ spring:
   profiles: dev
 
 hello:
-  greeting: "this is dev properties."  
+  greeting: "this is rrrrdev properties."  
 
 
 ---
