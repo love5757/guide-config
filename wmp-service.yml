@@ -5,7 +5,7 @@ greeting: "반갑습니다."
 spring:
   profiles: dev
 
-desc: "월요일~금요일 오후 5시 30분  자동등록 처리됨"
+desc: "DEV - 월요일~금요일 오후 5시 30분  자동등록 처리됨"
 
 
 ---
