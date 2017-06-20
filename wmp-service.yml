@@ -4,8 +4,9 @@ greeting: "반갑습니다."
 
 spring:
   profiles: dev
-  
-greeting: "this is dev properties."  
+
+hello:
+  greeting: "this is dev properties."  
 
 
 ---
@@ -13,4 +14,5 @@ greeting: "this is dev properties."
 spring:
   profiles: prod
   
-greeting: "this is prod properties."  
+hello:
+  greeting: "this is prod properties."  
