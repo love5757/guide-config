@@ -5,8 +5,7 @@ greeting: "반갑습니다."
 spring:
   profiles: dev
 
-hello:
-  greeting: "this is rrrrdev properties."  
+cron: "0 30 17 ? * MON-FRI"
 
 
 ---
@@ -14,5 +13,4 @@ hello:
 spring:
   profiles: prod
   
-hello:
-  greeting: "this is prod properties."  
+cron: "0 30 17 ? * MON-FRI"
