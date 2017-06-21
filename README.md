@@ -1,2 +1,2 @@
 # guide-config
-guide-config
+ - local test
