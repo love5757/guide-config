@@ -7,6 +7,8 @@ spring:
 
 desc: "DEV - 월요일~금요일 오후 5시 30분  자동등록 처리됨"
 
+slackWebhook: "dev"
+
 
 ---
 
@@ -14,3 +16,5 @@ spring:
   profiles: prod
   
 desc: "월요일~금요일 오후 5시 30분  자동등록 처리됨"
+
+slackWebhook: "prod"
