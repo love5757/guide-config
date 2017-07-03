@@ -12,8 +12,8 @@ slackWebhook: "dev"
 log:
   slack:
     enabled: true
-    webHookUrl: https://hooks.slack.com/services/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
-    channel: auto_wmp
+    webHookUrl: 
+    channel: 
   database:
     enabled: true
   level: ERROR
