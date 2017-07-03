@@ -9,7 +9,14 @@ desc: "DEV - 월요일~금요일 오후 5시 30분  자동등록 처리됨"
 
 slackWebhook: "dev"
 
-
+log:
+  slack:
+    enabled: true
+    webHookUrl: https://hooks.slack.com/services/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
+    channel: auto_wmp
+  database:
+    enabled: true
+  level: ERROR
 ---
 
 spring:
